@@ -13,11 +13,11 @@ export default navbar([
         children:[
           {
             text: "kubeneter入门",
-            link: ""
+            link: "kubernetes/base/01.k8s_models"
           },
           {
             text: "kubeneter进阶",
-            link: ""
+            link: "kubernetes/adv/"
           },
           {
             text: "kubeneter高级",
@@ -34,15 +34,28 @@ export default navbar([
         children:[
           {
             text: "ceph原理篇",
-            link: "ceph/principle/01.test"
+            link: "ceph/principle"
           },
           {
             text: "ceph实战篇",
-            link: "ceph/actual/01.test"
+            link: "ceph/actual/01.deploy-Ceph-based-on -ceph-deploy"
           },
           {
             text: "ceph问题记录",
             link: ""
+          }
+        ]
+      },
+      {
+        text: "docker",
+        children:[
+          {
+            text: "docker基础",
+            link: "docker/base/"
+          },
+          {
+            text: "docker基础",
+            link: "docker/adv/"
           }
         ]
       }

@@ -6,15 +6,15 @@ export default hopeTheme({
   //hostname: "https://java.isture.com",
 
   author: {
-    name: "zszdevelop",
+    name: "didiplus",
     url: "https://java.isture.com",
   },
 
   iconAssets: "iconfont",
 
-  logo: "/logo.svg",
+  logo: "/logo.png",
 
-  repo: "zszdevelop/java-study-gitbook",
+  repo: "",
 
   docsDir: "docs",
 
@@ -24,7 +24,7 @@ export default hopeTheme({
   // sidebar
   sidebar: sidebar,
 
-  footer: "<a href='https://beian.miit.gov.cn' target='_blank' style='color: var(--c-text-lighter);>闽ICP备18001806号-1</a>",
+  footer: "",
 
   displayFooter: true,
 

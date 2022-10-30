@@ -26,10 +26,10 @@ features:
   #   details: Java基础、Java集合、Java8、JVM
   #   link: /java/base/Java-basis-oop
 
-  # - title: 数据库
-  #   icon: mysql
-  #   details: 数据库基础/SQL基础、Mysql、Oracle、Redis、MongoDb、Elasticsearch
-  #   link: /db/mysql/sql-mysql-overview
+  - title: 数据库
+    icon: mysql
+    details: 数据库基础/SQL基础、Mysql、Oracle、Redis、MongoDb、Elasticsearch
+    link: /db/mysql/sql-mysql-overview
 
   # - title: 框架|依赖
   #   icon: frame

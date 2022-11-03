@@ -2,7 +2,7 @@ import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
   "/cloud/": "structure",
-  // "/db/": "structure",
+  "/linux/": "structure",
   // "/develop/": "structure",
   // "/dependencies/": "structure",
   // "/arch/": "structure",

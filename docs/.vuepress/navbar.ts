@@ -61,6 +61,26 @@ export default navbar([
       }
     ]
   },
+  {
+    text: "Linux",
+    prefix: "/linux/",
+    children:[
+      {
+        text: '环境部署',
+        children:[
+          {
+            text: '部署yum源',
+            link: "envdeploy/01.loaction-yum-deploy"
+          }
+        ]
+      },
+      {
+        text: '常用shell脚本',
+        link: 'shell/'
+      }
+      
+    ]
+  }
   
 
 

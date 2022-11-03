@@ -7,7 +7,7 @@ export default defineUserConfig({
   title: "知识库",
   description: "工作总结，学习笔记",
 
-  base: "./",
+  base: "/",
   head: [
     // ['script', {}, `
     //       var _hmt = _hmt || [];
